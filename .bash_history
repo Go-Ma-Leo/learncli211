@@ -1,0 +1,6 @@
+exit
+ls /bin
+ls -- hlep | less
+ls --help | less
+ls /bin | less
+exit
